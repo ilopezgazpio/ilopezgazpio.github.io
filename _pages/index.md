@@ -44,7 +44,8 @@ Through research, mentorship, and outreach, I strive to inspire the next generat
 
 Finally, as a computer scientist, enthusiast, and tinkerer, I actively engage in various projects related to research and education.
 Since 2024, I have been a member of the coordination board of the 3D Laboratory at the Faculty of Informatics.
-Additionally, I am the founder of the [Droneskola](https://www.droneskola.eus){:target="_blank"} project, which aims to democratize the dissemination of drone technology in the Basque Country by providing open-access educational content.
+Additionally, I am the founder of the [Droneskola](https://www.droneskola.eus){:target="_blank"} project,
+which aims to democratize the dissemination of drone technology in the Basque Country by providing open-access educational content.
 
 
 
