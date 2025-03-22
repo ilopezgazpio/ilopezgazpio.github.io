@@ -14,7 +14,7 @@ especialmente en <b>lingüística computacional, innovación educativa y sistema
 <h2 class="project-tagline">No dudes en ponerte en contacto conmigo</h2>
 
 Si actualmente estudias en la [Universidad del País Vasco (UPV/EHU)](http://www.ehu.eus/en){:target="_blank" rel="nofollow noindex"} o eres estudiante internacional en busca de dirección académica, no dudes en 
-[contactarme]( {{site.base_url}}/contact){:target="_blank"}.
+[contactarme]( {{site.base_url}}/es/contacto){:target="_blank"}.
 
 <h2 class="project-tagline">Consulta mis perfiles:</h2>
 
