@@ -30,7 +30,7 @@ I’ve collaborated on applied NLP projects in fields such as transportation, lo
 
 I also maintain a strong interest in open-source NLP tools and reproducible research, regularly publishing code and resources to support the broader research community.
 
-<h2 class="project-tagline">past, present and future work</h2>
+<h2 class="project-tagline">Past, present and future work</h2>
 
 With over 45 peer-reviewed publications and nearly 3,000 citations, my work has been presented at leading conferences and journals. I also serve as a reviewer for academic journals and conference tracks in NLP,
 and actively mentor students and junior researchers in the field.

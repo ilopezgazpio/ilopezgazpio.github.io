@@ -9,16 +9,16 @@ permalink: /teaching
 As a professor at [the University of the Basque Country (UPV/EHU)](http://www.ehu.eus/en){:target="_blank" rel="nofollow noindex"},
 teaching is not just part of my academic duties, but a cornerstone of my professional identity.
 I have dedicated my career to educating the next generation of engineers, scientists, and technologists by combining academic excellence with innovative, hands-on learning methods.
-My mission is to make complex topics like Artificial Intelligence (AI), Search Metaheuristics, and Machine Learning (ML) both accessible and inspiring.
+My mission is to make complex topics like Artificial Intelligence (AI), Search Metaheuristics, Machine Learning (ML), and Deep Learning (DL) both accessible and inspiring.
 
 <h2 class="project-tagline">Plenty of in-class hours, and still enjoying :)</h2>
 
 Over the years, I’ve delivered more than 1,000 hours of university-level instruction, consistently earning top-tier evaluations from students.
 My courses span undergraduate, master’s, and doctoral programs, and include subjects such as:
 <li> Artificial Intelligence </li>
-<li> Software Engineering </li>
+<li> Advanced Machine Learning and Deep Learning </li>
 <li> Search Techniques for Optimization </li>
-<li> Advanced Machine Learning </li>
+<li> Software Development, Engineering, Testing, and integration </li>
 <li> Big data </li>
 <li> Databases </li>
 
