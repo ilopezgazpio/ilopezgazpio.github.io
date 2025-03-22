@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.inigolopezgazpio.net/sitemap.xml
