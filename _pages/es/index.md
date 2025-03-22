@@ -18,13 +18,13 @@ Si actualmente estudias en la [Universidad del País Vasco (UPV/EHU)](http://www
 
 <h2 class="project-tagline">Consulta mis perfiles:</h2>
 
-<a href="{{ site.baseurl }}/teaching" target="_blank" class="icon-link">
+<a href="{{ site.baseurl }}/es/docencia" target="_blank" class="icon-link">
   <i class="fas fa-user-graduate"></i>
   <span class="label">docencia y habilidades educativas</span>
   <i class="fas fa-user-graduate"></i>
 </a>
 
-<a href="{{ site.baseurl }}/research" target="_blank" class="icon-link">
+<a href="{{ site.baseurl }}/es/investigacion" target="_blank" class="icon-link">
   <i class="fas fa-microscope"></i>
   <span class="label">intereses de investigación</span>
   <i class="fas fa-microscope"></i>
@@ -44,7 +44,7 @@ Si actualmente estudias en la [Universidad del País Vasco (UPV/EHU)](http://www
   <i class="fas fa-code-branch"></i>
 </a>
 
-<a href="https://x.com/i_lopez_gazpio?lang=en" target="_blank" class="icon-link" rel="noindex nofollow">
+<a href="https://x.com/i_lopez_gazpio?lang=es" target="_blank" class="icon-link" rel="noindex nofollow">
   <i class="fas fa-times"></i>
   <span class="label">red social</span>
   <i class="fas fa-times"></i>
