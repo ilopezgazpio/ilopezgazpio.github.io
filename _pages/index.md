@@ -39,9 +39,9 @@ If you are currently studying at [the University of the Basque Country (UPV/EHU)
 </a>
 
 <a href="https://orcid.org/my-orcid?orcid=0000-0002-7479-4718" target="_blank" class="icon-link" rel="noindex nofollow">
-  <i class="fa-brands fa-orcid"></i>
+  <i class="fab fa-orcid"></i>
   <span class="label"> ORCID </span>
-  <i class="fa-brands fa-orcid"></i>
+  <i class="fab fa-orcid"></i>
 </a>
 
 
