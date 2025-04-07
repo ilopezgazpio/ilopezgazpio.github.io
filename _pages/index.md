@@ -38,6 +38,13 @@ If you are currently studying at [the University of the Basque Country (UPV/EHU)
   <i class="fas fa-graduation-cap"></i>
 </a>
 
+<a href="https://orcid.org/my-orcid?orcid=0000-0002-7479-4718" target="_blank" class="icon-link" rel="noindex nofollow">
+  <i class="fa-brands fa-orcid"></i>
+  <span class="label"> ORCID </span>
+  <i class="fa-brands fa-orcid"></i>
+</a>
+
+
 <a href="https://github.com/ilopezgazpio/" target="_blank" class="icon-link" rel="noindex nofollow">
   <i class="fas fa-code-branch"></i>
   <span class="label"> Github </span>
